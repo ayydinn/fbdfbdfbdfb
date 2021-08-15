@@ -1,0 +1,12 @@
+{
+    "bot_name": "Security Bot",
+    "mainURL": "https://cdn.discordapp.com/avatars/692651925451047013/6d3aa6bcea9d646c53a05ca490f00289.webp",
+    "loop_status_types": true,
+    "loop_status": [
+        "COMPETING",
+        "PLAYING",
+        "WATCHING",
+        "LISTENING"
+    ],
+    "status": "@username help"
+}
